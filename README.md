@@ -1,1 +1,1 @@
-#hackPHS 2018 Website
+hackPHS 2018 Website
