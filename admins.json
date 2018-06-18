@@ -4,6 +4,56 @@
       "name":"Lincoln",
       "id": "U8YACG4MU",
       "title": "Co-Executive Director"
+    },
+    {
+      "name":"Charlie",
+      "id": "TBD",
+      "title": "Co-Executive Director"
+    },
+    {
+      "name":"Aditya Prasad",
+      "id": "TBD",
+      "title": "Logistics"
+    },
+    {
+      "name":"Anna Eaton",
+      "id": "TBD",
+      "title": "Logistics"
+    },
+    {
+      "name":"Joann Shi",
+      "id": "TBD",
+      "title": "Finances"
+    },
+    {
+      "name":"Andrew Yan",
+      "id": "TBD",
+      "title": "Finances"
+    },
+    {
+      "name":"Grace Zhang",
+      "id": "TBD",
+      "title": "Outreach/Design"
+    },
+    {
+      "name":"Anubhav Suri",
+      "id": "TBD",
+      "title": "Outreach"
+    },
+    {
+      "name":"Stephane Morel",
+      "id": "TBD",
+      "title": "Development"
+    },
+    {
+      "name":"Chris Xu",
+      "id": "TBD",
+      "title": "Design/Outreach"
+    },
+    {
+      "name":"Claire Xu",
+      "id": "TBD",
+      "title": "Design/Outreach"
     }
   ]
 }
