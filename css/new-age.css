@@ -158,7 +158,8 @@ header.masthead {
 
 }
 header.masthead{
-  background: url("../img/bg.png") #000000
+  background: url("../img/bg.png") #000000;
+  background-size: 100% 100%;
 
 }
 
