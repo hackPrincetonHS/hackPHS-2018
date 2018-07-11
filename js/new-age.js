@@ -1,3 +1,7 @@
+a = 'hack'
+b = 'PHS{'
+c = "js_dont_f**k_it_up"
+d = "}"
 (function($) {
   "use strict"; // Start of use strict
 
