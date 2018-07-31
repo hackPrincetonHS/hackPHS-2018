@@ -319,7 +319,10 @@ section.cta {
     font-size: 80px;
   }
 }
-
+#sponsorText{
+  margin-left: 20px;
+  margin-right: 20px;
+}
 section.cta .overlay {
   position: absolute;
   top: 0;
@@ -332,6 +335,7 @@ section.cta .overlay {
 section.contact {
   text-align: center;
   background-color: #fdcc52
+
 }
 
 section.contact h2 {
