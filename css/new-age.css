@@ -57,7 +57,7 @@ section h2 {
 
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
-  background-color: white;
+  background-color: black;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
@@ -67,20 +67,20 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #72a6fc;
+  color: #000000;
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
 
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-  color: #72a6fc;
+  color: #000000;
 }
 
 #mainNav .navbar-toggler {
   font-size: 12px;
   padding: 8px 10px;
-  color: #72a6fc;
+  color: #000000;
 }
 
 #mainNav .navbar-nav > li > a {
@@ -91,7 +91,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav > li > a.active {
-  color: #72a6fc !important;
+  color: #000000 !important;
   background-color: transparent;
 }
 
@@ -101,12 +101,12 @@ section h2 {
 
 #mainNav .navbar-nav > li > a,
 #mainNav .navbar-nav > li > a:focus {
-  color: #72a6fc;
+  color: #000000;
 }
 
 #mainNav .navbar-nav > li > a:hover,
 #mainNav .navbar-nav > li > a:focus:hover {
-  color: #fdcc52;
+  color: #000000;
 }
 
 @media (min-width: 992px) {
@@ -115,36 +115,36 @@ section h2 {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    color: fade(white, 70%);
+    color: #000000;
   }
   #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-    color: 72a6fc;
+    color: #72a6fc;
   }
   #mainNav .navbar-nav > li > a,
   #mainNav .navbar-nav > li > a:focus {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(0, 0, 0, 0.7);
   }
   #mainNav .navbar-nav > li > a:hover,
   #mainNav .navbar-nav > li > a:focus:hover {
-    color: 72a6fc;
+    color: #72a6fc;
   }
   #mainNav.navbar-shrink {
     border-color: rgba(34, 34, 34, 0.1);
     background-color: white;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #72a6fc;
+    color: #FFFFFF;
   }
   #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
-    color: #72a6fc;
+    color: #FFFFFF;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus {
-    color: #72a6fc;
+    color: #FFFFFF;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a:hover,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-    color: #72a6fc;
+    color: #FFFFFF;
   }
 }
 
@@ -153,12 +153,12 @@ header.masthead {
   width: 100%;
   padding-top: 150px;
   padding-bottom: 100px;
-  color: white;
+  color: black;
 
 
 }
 header.masthead{
-  background: url("../img/bg.png") #000000;
+  background: url("../img/bg.png") #FFFFFF;
   background-repeat: no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
