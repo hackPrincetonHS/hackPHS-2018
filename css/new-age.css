@@ -206,6 +206,13 @@ header.masthead .device-container .screen img {
     max-width: 325px;
   }
 }
+@media (max-width: 500px) {
+  #masthead-content{
+    align: center;
+    text-align: center
+
+  }
+}
 
 section.download {
   position: relative;
