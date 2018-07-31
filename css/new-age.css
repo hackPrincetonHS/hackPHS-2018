@@ -150,7 +150,8 @@ section h2 {
 
 header.masthead {
   position: relative;
-  width: 100%;
+  /* width: 100%; */
+  height: 80%;
   padding-top: 150px;
   padding-bottom: 100px;
   color: black;
@@ -206,12 +207,20 @@ header.masthead .device-container .screen img {
     max-width: 325px;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 770px) {
   #masthead-content{
     align: center;
-    text-align: center
+    text-align: center;
+  }
+  header.masthead .header-content h1 {
+    font-size: 40px;
 
   }
+  #mainName{
+    margin-top: 50vh;
+
+  }
+
 }
 
 section.download {
