@@ -161,7 +161,7 @@ header.masthead {
 header.masthead{
   background: url("../img/bg.png") #FFFFFF;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: 75% 25%;
   background-position: center;
