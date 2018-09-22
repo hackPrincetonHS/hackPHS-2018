@@ -450,3 +450,10 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   padding: 15px 45px;
   margin-bottom: 15px;
 }
+.stupid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 125px;
+    margin-left: auto;
+}
